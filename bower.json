@@ -1,0 +1,28 @@
+{
+  "name": "passportjs-ng-token-auth",
+  "description": "An example of how PassportJS can be used in combination with JWTs for the purpose of providing authentication for ng-token-auth on Angular",
+  "main": "index.js",
+  "authors": [
+    "Angel S. Moreno <angelxmoreno@gmail.com> (https://angelxmoreno.github.io/)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Passport",
+    "PassportJS",
+    "Angular",
+    "AngularJS",
+    "Express",
+    "ExpressJS",
+    "Node",
+    "NodeJS"
+  ],
+  "homepage": "https://github.com/angelxmoreno/passportjs-ng-token-auth",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ]
+}
